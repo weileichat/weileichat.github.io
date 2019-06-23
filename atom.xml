@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://weileichat.github.io/</id>
-    <title>WeiLei Tech Blog</title>
-    <updated>2019-06-23T09:40:44.888Z</updated>
+    <title>技术博客</title>
+    <updated>2019-06-23T09:41:24.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://weileichat.github.io/"/>
     <link rel="self" href="https://weileichat.github.io//atom.xml"/>
     <logo>https://weileichat.github.io//images/avatar.png</logo>
     <icon>https://weileichat.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, WeiLei Tech Blog</rights>
+    <rights>All rights reserved 2019, 技术博客</rights>
     <entry>
         <title type="html"><![CDATA[开篇]]></title>
         <id>https://weileichat.github.io//post/kai-pian</id>
